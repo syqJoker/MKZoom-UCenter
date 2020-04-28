@@ -1,4 +1,4 @@
-package com.mksun.swcenter.entity;
+package com.mksun.ucenter.entity;
 
 import java.util.concurrent.TimeUnit;
 

@@ -1,6 +1,6 @@
-package com.mksun.swcenter.utils;
+package com.mksun.ucenter.utils;
 
-import com.mksun.swcenter.entity.Status;
+import com.mksun.ucenter.entity.Status;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.redis.core.BoundListOperations;
 import org.springframework.data.redis.core.RedisTemplate;

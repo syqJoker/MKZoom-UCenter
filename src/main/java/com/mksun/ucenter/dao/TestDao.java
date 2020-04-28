@@ -1,6 +1,6 @@
-package com.mksun.swcenter.dao;
+package com.mksun.ucenter.dao;
 
-import com.mksun.swcenter.entity.Test;
+import com.mksun.ucenter.entity.Test;
 import org.apache.ibatis.annotations.Mapper;
 import org.springframework.stereotype.Repository;
 

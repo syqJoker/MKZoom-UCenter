@@ -1,9 +1,9 @@
-package com.mksun.swcenter.controller;
+package com.mksun.ucenter.controller;
 
-import com.mksun.swcenter.commonService.RedisService;
-import com.mksun.swcenter.entity.RtnJSON;
-import com.mksun.swcenter.entity.Test;
-import com.mksun.swcenter.service.TestService;
+import com.mksun.ucenter.commonService.RedisService;
+import com.mksun.ucenter.entity.RtnJSON;
+import com.mksun.ucenter.entity.Test;
+import com.mksun.ucenter.service.TestService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;

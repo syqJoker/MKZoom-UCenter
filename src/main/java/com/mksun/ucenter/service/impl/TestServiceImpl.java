@@ -1,8 +1,8 @@
-package com.mksun.swcenter.service.impl;
+package com.mksun.ucenter.service.impl;
 
-import com.mksun.swcenter.dao.TestDao;
-import com.mksun.swcenter.entity.Test;
-import com.mksun.swcenter.service.TestService;
+import com.mksun.ucenter.dao.TestDao;
+import com.mksun.ucenter.entity.Test;
+import com.mksun.ucenter.service.TestService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

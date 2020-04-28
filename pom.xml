@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.mksun</groupId>
-	<artifactId>swcenter</artifactId>
+	<artifactId>ucenter</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>swcenter</name>
+	<name>ucenter</name>
 	<description>BodyData center project for street workout by mk.sun</description>
 
 	<properties>

@@ -1,6 +1,6 @@
-package com.mksun.swcenter.service;
+package com.mksun.ucenter.service;
 
-import com.mksun.swcenter.entity.Test;
+import com.mksun.ucenter.entity.Test;
 
 import java.util.List;
 
